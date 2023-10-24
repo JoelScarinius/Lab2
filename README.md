@@ -1,2 +1,3 @@
 # Lab2
-Contemporary Computer Lab assignment 1
+
+Contemporary Computer Lab assignment 2
